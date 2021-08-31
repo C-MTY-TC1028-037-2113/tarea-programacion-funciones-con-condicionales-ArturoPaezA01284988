@@ -3,10 +3,10 @@ def pies_cm(pies):
     return pies * 30.48
 
 def pulgadas_cm(pulgadas):
-    return pulgadas * 2.54
+    return pulgadas *2.54
 
 def yardas_cm(yardas):
-    return yardas * 91.44
+    return yardas *91.44
 
 def main():
     # Escribe tu código abajo de esta línea
